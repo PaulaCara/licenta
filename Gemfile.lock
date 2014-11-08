@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     licenta (0.0.1)
-      rails (~> 4.1.6)
+      rails
 
 GEM
   remote: https://rubygems.org/
